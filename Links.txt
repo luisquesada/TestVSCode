@@ -4,4 +4,6 @@ https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
 Video VS Code and Github
 https://www.youtube.com/watch?v=Fk12ELJ9Bww
 
-Este es un cambio para hacer commit
+Git Book
+https://git-scm.com/book/en/v2
+
